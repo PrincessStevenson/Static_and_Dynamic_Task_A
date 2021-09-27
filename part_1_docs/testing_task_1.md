@@ -20,7 +20,7 @@ class CardGame:
   def check_for_ace(self, card):
     if card.value = 1: #needs double equals/==
       return True
-    else
+    else #colon is missing from else
       return False
    
 
